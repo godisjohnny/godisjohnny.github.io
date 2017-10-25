@@ -10,13 +10,13 @@ url: "https://godisjohnny.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    # disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
     # weibo: 5366874726 
-    github: johnny
+    github: godisjohnny
     # twitter: 
     mail: 674005274@qq.com
 
