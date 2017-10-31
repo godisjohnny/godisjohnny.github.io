@@ -586,3 +586,8 @@ CREATE TABLE `user` (
 ) ENGINE=InnoDB AUTO_INCREMENT=27 DEFAULT CHARSET=utf8;
 
 ```
+# 效果
+![](/images/mybatisnxgc/a.jpg)
+![](/images/mybatisnxgc/b.jpg)
+![](/images/mybatisnxgc/c.jpg)
+![](/images/mybatisnxgc/d.jpg)
